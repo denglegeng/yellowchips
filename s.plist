@@ -5,10 +5,10 @@
         <key>items</key>
         <array>
             <dict>
-                <key>1cb48387eb70aaedc776d65128fc17f9</key>
+                <key>com.touchingapp.potatsolite</key>
                 <array>
                     <dict>
-                        <key>1cb48387eb70aaedc776d65128fc17f9</key>
+                        <key>com.touchingapp.potatsolite</key>
                         <string>software-package</string>
                         <key>url</key>
                         <string>http://www.papavpn.com/admin/download/Potatso-Lite-1.4.0.ipa</string>
@@ -16,15 +16,15 @@
                 </array>
                 <key>metadata</key>
                 <dict>
-                    <key>1cb48387eb70aaedc776d65128fc17f9</key>
+                    <key>com.touchingapp.potatsolite</key>
                     <string>cn</string>
                     <key>bundle-version</key>
-                    <string>1.0.7</string>
+                    <string>1.4.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
                     <string>下载</string>
-                    <key>1cb48387eb70aaedc776d65128fc17f9</key>
+                    <key>com.touchingapp.potatsolite</key>
                     <string></string>
                 </dict>
             </dict>
